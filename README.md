@@ -5,7 +5,7 @@
 ![viewfinal](![demo](https://github.com/aliasghardev/project1))
 
 
-- [Demo Project](https://azar-arezoomandi-web.github.io/project/)
+- [Demo Project](https://aliasghardev.github.io/project1/)
 
 - Developed by aliasghar gholami
 
